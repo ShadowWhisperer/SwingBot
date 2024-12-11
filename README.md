@@ -2,10 +2,14 @@
 
 SwingBot is a Python script designed to help identify potential swing trade opportunities, by analyzing historical stock data.  
 It processes a predefined list of tickers, evaluates technical indicators, and displays promising candidates based on predefined criteria.  
-
-Required dependencies:  
-```pip install yfinance pandas numpy ta```  
 <br>  
+
+🛠️ ***How to Use***  
+1. Create a tickers.txt file, and add your stock tickers. One ticker per line.  
+2. Install required dependencies: ```pip install yfinance pandas numpy ta```    
+3. Adjust the configuration parameters in the script (RSI, price range, volume, etc.).  
+4. Run the script: ```python3 SwingBot.py```  
+<br>
 
 🔍 ***What This Does***  
 1. Data Fetching: Pulls historical stock data for a list of tickers from Yahoo Finance.
@@ -20,16 +24,8 @@ Required dependencies:
 <br>
 
 📝 ***Example Output***  
-![Swing](https://github.com/user-attachments/assets/a13b87e6-1489-4dff-871a-d8d51e7c32b0)  
 <br>
-
-🛠️ ***How to Use***  
-1. Create a tickers.txt file, and add your stock tickers. One ticker per line.  
-2. Adjust the configuration parameters in the script (RSI, price range, volume, etc.).  
-3. Run the script:  
-```diff
-python3 swingbot.py  
-```
+![Swing](https://github.com/user-attachments/assets/a13b87e6-1489-4dff-871a-d8d51e7c32b0)  
 <br>
 
 ⚠️ ***Disclaimers***  
