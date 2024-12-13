@@ -29,11 +29,6 @@ It processes a predefined list of tickers, evaluates technical indicators, and d
 3. Use AI
 <br>
 
-📝 ***Example Output***  
-<br>
-![SB](https://github.com/user-attachments/assets/6d94fdc1-df11-42f1-89fd-95e4b17f26df)
-<br>
-
 ⚠️ ***Disclaimers***  
 1. This is not financial advice. This tool was created for educational and testing purposes only.
 2. I will not be held responsible for any gains/losses incurred as a result of using this tool.
