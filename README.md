@@ -1,8 +1,13 @@
 # SwingBot
 
-SwingBot is a Python script designed to help identify potential swing trade opportunities, by analyzing historical stock data.  
-It processes a predefined list of tickers, evaluates technical indicators, and displays promising candidates based on predefined criteria.  
-<br>  
+SwingBot is a Python script designed to help identify potential swing trade opportunities.  
+It processes a predefined list of tickers, evaluates technical indicators, and displays promising candidates based on tweakable criteria.  
+<br>
+
+```diff
+- This is still in its very early phase... and is probably not of much use
+```
+<br>
 
 🛠️ ***How to Use***  
 1. Create a tickers.txt file, and add your stock tickers. One ticker per line.  
