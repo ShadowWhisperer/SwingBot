@@ -5,7 +5,7 @@ It processes a predefined list of tickers, evaluates technical indicators, and d
 <br>
 
 ```diff
-- This is still in its very early phase... and is probably not of much use
+- This is still in its very early stages... and is probably not of much use
 ```
 <br>
 
@@ -17,9 +17,10 @@ It processes a predefined list of tickers, evaluates technical indicators, and d
 <br>
 
 🔍 ***What This Does***  
-1. Data Fetching: Pulls historical stock data for a list of tickers from Yahoo Finance.
-2. Technical Analysis: Evaluates the stock data against a set of technical indicators (RSI, EMA, MACD, etc.).
-3. Results Display: Filters stocks based on defined criteria and displays promising swing trade candidates.
+1. Data Fetching: Pulls historical stock data for a list of tickers from Yahoo Finance.  
+2. Technical Analysis: Evaluates the stock data against a set of technical indicators (RSI, EMA, MACD, etc.).  
+3. Results Display: Filters stocks based on defined criteria and displays promising swing trade candidates.  
+4. Saves extended data to .xlsx file  
 <br>
 
 ❌ ***What This Does NOT Do***  
@@ -30,7 +31,7 @@ It processes a predefined list of tickers, evaluates technical indicators, and d
 
 📝 ***Example Output***  
 <br>
-![Swing](https://github.com/user-attachments/assets/a13b87e6-1489-4dff-871a-d8d51e7c32b0)  
+![SB](https://github.com/user-attachments/assets/6d94fdc1-df11-42f1-89fd-95e4b17f26df)
 <br>
 
 ⚠️ ***Disclaimers***  
